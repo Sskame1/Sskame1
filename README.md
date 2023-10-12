@@ -1,7 +1,21 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXMwaThjamRrb3BmZG9rbTVqNnlrcnJ6eThsOWI5a3c3c2lmdW91bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300">
 </div>
 <div align="center">
    Welcome to my Profile GitHub
 </div>
 
+<div align="center">
+  Hello me Anatoliy i'm Frontend developer :man_technologist:
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,py,js,nodejs,react,django,tailwind,git,github,vscode,figma" />
+  </a>
+</p>
+:fire: My Stats :
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=JustAnatoliyDev&theme=react" alt="GitHub Streak" /></a>
