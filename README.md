@@ -16,6 +16,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,py,js,nodejs,react,django,tailwind,git,github,vscode,figma" />
   </a>
 </p>
-:fire: My Stats :
-
-
