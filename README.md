@@ -18,4 +18,4 @@
 </p>
 :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=JustAnatoliyDev&theme=react" alt="GitHub Streak" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustAnatoliyDev&theme=react)](https://git.io/streak-stats)
