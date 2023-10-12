@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  Hello me Anatoliy i'm Frontend developer :man_technologist:
+  Hi I'm Anatoly and I'm a frontend developer :man_technologist:
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
