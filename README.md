@@ -16,3 +16,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,py,js,nodejs,react,django,tailwind,git,github,vscode,figma" />
   </a>
 </p>
+
+:fire:My state:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sskame1&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sskame1&show_icons=true&theme=react)
