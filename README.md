@@ -9,7 +9,7 @@
   Hi I'm Anatoly and I'm a frontend developer :man_technologist:
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <p>
   <a href="https://skillicons.dev">
