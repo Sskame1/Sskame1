@@ -11,5 +11,6 @@
 
 My stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sskame1&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sskame1&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sskame1&show_icons=true&theme=react)
+
