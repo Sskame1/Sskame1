@@ -9,7 +9,6 @@
   Hi I'm Anatoly and I'm a frontend developer :man_technologist:
 </div>
 
-My stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sskame1&show_icons=true&theme=react)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sskame1&show_icons=true&theme=react)
