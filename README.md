@@ -1,15 +1,18 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300">
-</div>
-<div align="center">
-   Welcome to my Profile GitHub
-</div>
+# Hello i'm Anatoliy
 
-<div align="center">
-  Hi I'm Anatoly and I'm a frontend developer :man_technologist:
-</div>
+## Fullstack developer from Yakutia 👨‍💻
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sskame1&show_icons=true&theme=react)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sskame1&show_icons=true&theme=react)
-
+### About me
+- I am 15 y.o
+- I am interested in programming and development of web applications, games, software
+- Ability to create user interfaces using modern technologies and tools
+- My hobby is learning Japanese(私のレベルはN5未満です)(漢字はよくわかりません)
+### My Skills:
+- Experience with React.js and Next.js ~1 years
+- Knowledge of HTML, CSS, JavaScript and starting learn Nest.js,Docker,kubernetes,nginx
+- Basic knowledge of web design and usability
+### Experience in hackathons :
+- Hack The Ice 4.0 2022
+- AccelProIT 2023
+- ITBootCamp 2023
+- Saturn Hackathon 2024
