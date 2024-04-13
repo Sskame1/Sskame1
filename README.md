@@ -19,7 +19,7 @@
 - mini GameJame
 
 ### 🥇 my basic skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,nextjs,tailwindcss,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,nextjs,nodejs,express,tailwindcss)](https://skillicons.dev)
 
 ### 🥈 my secondary skills:
 [![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,ts,sass,django,fastapi,electron,graphql,postgres,sqlite,prisma)](https://skillicons.dev)
