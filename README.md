@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,nextjs,tailwindcss,nodejs,express)](https://skillicons.dev)
 
 ### 🥈 my secondary skills:
-[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,ts,sass,django,electron,fastapi,graphql,postgres,prisma,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,ts,sass,django,fastapi,electron,graphql,postgres,sqlite,prisma)](https://skillicons.dev)
 
 ### 🔥 programs that help:
 [![My Skills](https://skillicons.dev/icons?i=figma,github,postman,unity,visualstudio,vscode)](https://skillicons.dev)
