@@ -3,12 +3,11 @@
 ## Fullstack developer from Yakutia 👨‍💻
 
 ### 💻 About me
-- I am 15 y.o
+- I am 16 y.o
 - I am interested in programming and development of web applications, games, software
 - Ability to create user interfaces using modern technologies and tools
-- My hobby is learning Japanese(N5)
 ### 🧠 My Skills:
-- Experience with React.js and Next.js ~1 years
+- Experience with React.js and Next.js ~3-4 years
 - Knowledge of HTML, CSS, JavaScript and starting learn Nest.js,Docker,kubernetes,nginx
 - Basic knowledge of web design and usability
 ### 💎 Experience in hackathons :
