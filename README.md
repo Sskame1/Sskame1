@@ -16,6 +16,7 @@
 - ITBootCamp 2023
 - Saturn Hackathon 2024
 - mini GameJame
+- MPIT2025
 
 ### 🥇 my basic skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,nextjs,nodejs,express,tailwindcss)](https://skillicons.dev)
