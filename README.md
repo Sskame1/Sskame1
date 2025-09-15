@@ -3,7 +3,7 @@
 ## Fullstack developer from Yakutia 👨‍💻
 
 ### 💻 About me
-- I am 16 y.o
+- I am 17 y.o
 - I am interested in programming and development of web applications, games, software
 - Ability to create user interfaces using modern technologies and tools
 ### 🧠 My Skills:
