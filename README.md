@@ -1,19 +1,12 @@
-# Hello i'm Anatoliy
+# Hi, I'm Anatoliy 👋
 
-## Fullstack developer from Yakutia 👨‍💻
+Full-stack developer from Yakutia. I enjoy exploring different areas of technology, from web development and software to games.
 
-### 💻 About me
-- I am 17 y.o
-- I am interested in programming and development of web applications, games, software
-- Ability to create user interfaces using modern technologies and tools
-### 🧠 My Skills:
-- Experience with React.js ~3-4 and Next.js ~2 years
-- Knowledge of web development in react,next.js. Learning to work with Nest,nginx
-- Basic knowledge of web design and usability
-### 💎 Experience in hackathons :
-- Hack The Ice 4.0 2022
-- AccelProIT 2023
-- ITBootCamp 2023
-- Saturn Hackathon 2024
-- mini GameJame
-- MPIT2025
+## 🏆 Hackathons
+
+- Hack The Ice 4.0 - 2022
+- AccelProIT - 2023
+- ITBootCamp - 2023
+- Saturn Hackathon - 2024
+- Mini Game Jam
+- MPIT - 2025
